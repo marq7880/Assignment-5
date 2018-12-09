@@ -1,0 +1,58 @@
+.navbar-slogan{
+
+border-left: none;
+
+
+}
+.body{
+font-family: "Helvetica Neue", Arial, Helvetica, sans-serif;
+
+}
+
+.item-carousel .item-details .item-title{
+font-weight: 300;
+}
+
+.shopping-cart a i {
+    border: none;
+    font-size: 2em;
+    padding: 0;
+    margin: 0;
+    line-height: 24px;
+    width: 50px;
+    text-align: center;
+    display: block;
+}
+
+.overlay-wrapper{
+    display: block;
+    height: 18em;
+
+
+}
+
+.item-title a:hover{
+    text-decoration: none;
+
+
+}
+
+.navbar-slogan img {
+    display: block;
+    max-width: 150%;
+    height: auto;
+    vertical-align: 10em
+}
+
+.navbar-slogan {
+    float: left;
+    width: 180px;
+    padding-left: 1.5em;
+    margin-left: 3em;
+    border-left: 2px dotted #bcbfc4;
+    font-size: 13px;
+    line-height: 1.2;
+    color: #dddddf;
+    display: none;
+}
+
